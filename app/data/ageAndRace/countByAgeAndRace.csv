@@ -1,0 +1,525 @@
+Age,Race,count
+65,Hispanic/Latino,4
+48,Asian/Pacific Islander,5
+11,Race unspecified,2
+87,European-American/White,5
+31,European-American/White,253
+27,European-American/White,225
+36,Native American/Alaskan,8
+70s,Race unspecified,1
+17,Race unspecified,119
+52,Native American/Alaskan,1
+33,European-American/White,261
+33,Asian/Pacific Islander,18
+70,Hispanic/Latino,2
+53,Native American/Alaskan,1
+29,European-American/White,239
+2,Race unspecified,4
+9,European-American/White,7
+87,Hispanic/Latino,1
+68,Hispanic/Latino,3
+47,Native American/Alaskan,4
+36,Hispanic/Latino,88
+21,Asian/Pacific Islander,17
+40-50,Hispanic/Latino,1
+8,Race unspecified,1
+2,African-American/Black,6
+45,Race unspecified,137
+34,Hispanic/Latino,102
+29,Asian/Pacific Islander,9
+42,Asian/Pacific Islander,7
+77,Race unspecified,10
+86,European-American/White,6
+82,Race unspecified,3
+74,Race unspecified,17
+64,European-American/White,50
+16,Asian/Pacific Islander,5
+9,Hispanic/Latino,2
+25,African-American/Black,243
+5,Race unspecified,4
+33,Native American/Alaskan,10
+53,European-American/White,125
+31,Hispanic/Latino,114
+73,European-American/White,17
+86,African-American/Black,3
+19,African-American/Black,211
+4,African-American/Black,3
+23,Race unspecified,213
+76,European-American/White,15
+27,Native American/Alaskan,9
+20s-30s,Race unspecified,1
+33,Middle Eastern,1
+40s,European-American/White,1
+72,Hispanic/Latino,1
+20,African-American/Black,229
+7,Hispanic/Latino,7
+71,Race unspecified,19
+10,African-American/Black,2
+48,European-American/White,144
+12,African-American/Black,11
+15,Native American/Alaskan,4
+39,Hispanic/Latino,69
+79,European-American/White,8
+88,European-American/White,4
+33,Hispanic/Latino,103
+90,Race unspecified,2
+66,Asian/Pacific Islander,2
+49,Asian/Pacific Islander,3
+90,European-American/White,1
+28,Asian/Pacific Islander,18
+30,Race unspecified,192
+83,African-American/Black,1
+45,Native American/Alaskan,3
+56,Asian/Pacific Islander,2
+60,European-American/White,59
+65,European-American/White,36
+75,African-American/Black,3
+21,Native American/Alaskan,9
+40,Race unspecified,217
+13,European-American/White,15
+46,Asian/Pacific Islander,9
+62,European-American/White,64
+66,Hispanic/Latino,3
+26,Asian/Pacific Islander,14
+60,Hispanic/Latino,7
+40,Hispanic/Latino,61
+59,European-American/White,89
+17,Native American/Alaskan,1
+63,Asian/Pacific Islander,1
+68,African-American/Black,13
+4,Race unspecified,4
+30,European-American/White,262
+1,Native American/Alaskan,1
+14,African-American/Black,25
+2,Hispanic/Latino,5
+24,Native American/Alaskan,12
+92,European-American/White,1
+7 mon,African-American/Black,1
+23,European-American/White,201
+6,Race unspecified,4
+38,African-American/Black,122
+61,Asian/Pacific Islander,3
+7 months,Race unspecified,1
+18,Middle Eastern,1
+18,Native American/Alaskan,5
+14,Native American/Alaskan,2
+51,Native American/Alaskan,1
+20,Race unspecified,184
+61,African-American/Black,22
+77,European-American/White,13
+64,Hispanic/Latino,2
+58,Native American/Alaskan,2
+10 months,Race unspecified,2
+67,Native American/Alaskan,1
+25-30,Hispanic/Latino,1
+20,Hispanic/Latino,101
+36,African-American/Black,126
+89,Race unspecified,1
+7,African-American/Black,6
+1,Asian/Pacific Islander,1
+4,Native American/Alaskan,1
+24,Race unspecified,206
+26,African-American/Black,212
+15,African-American/Black,75
+28,Hispanic/Latino,108
+62,Hispanic/Latino,14
+49,African-American/Black,58
+60s,European-American/White,3
+43,Hispanic/Latino,56
+59,Race unspecified,59
+16,Hispanic/Latino,36
+46/53,European-American/White,1
+73,Hispanic/Latino,1
+47,European-American/White,172
+4 months,European-American/White,1
+56,Middle Eastern,3
+74,African-American/Black,7
+44,European-American/White,168
+51,European-American/White,156
+51,African-American/Black,50
+66,African-American/Black,10
+40,Native American/Alaskan,4
+6 months,African-American/Black,1
+24,Middle Eastern,2
+51,Middle Eastern,2
+49,Hispanic/Latino,33
+44,Asian/Pacific Islander,6
+62,African-American/Black,19
+71,Hispanic/Latino,5
+30s,Hispanic/Latino,3
+1,African-American/Black,9
+50,Race unspecified,114
+10,Asian/Pacific Islander,1
+88,Hispanic/Latino,1
+41,Middle Eastern,1
+10,Race unspecified,6
+13,Hispanic/Latino,11
+25,Asian/Pacific Islander,23
+34,Asian/Pacific Islander,13
+3 months,European-American/White,2
+55,Asian/Pacific Islander,6
+28,Native American/Alaskan,11
+58,European-American/White,100
+54,Hispanic/Latino,21
+3 days,European-American/White,1
+57,Middle Eastern,1
+38,Hispanic/Latino,89
+50,Native American/Alaskan,6
+61,Native American/Alaskan,1
+47,Hispanic/Latino,46
+19,Native American/Alaskan,10
+8,African-American/Black,3
+77,African-American/Black,3
+42,European-American/White,208
+64,Asian/Pacific Islander,1
+44,Hispanic/Latino,55
+1,Hispanic/Latino,6
+79,African-American/Black,2
+41,Hispanic/Latino,56
+9,Race unspecified,3
+83,Race unspecified,5
+53,Asian/Pacific Islander,6
+27,Middle Eastern,3
+11,Asian/Pacific Islander,1
+64,African-American/Black,9
+29,Race unspecified,185
+43,Race unspecified,158
+39,European-American/White,210
+67,European-American/White,30
+2,European-American/White,6
+31,Race unspecified,204
+57,European-American/White,97
+55,Native American/Alaskan,2
+51,Race unspecified,101
+68,Race unspecified,20
+34,European-American/White,257
+38,European-American/White,217
+64,Race unspecified,21
+41,Native American/Alaskan,5
+80,European-American/White,4
+8 months,European-American/White,1
+46,Native American/Alaskan,2
+45 or 49,European-American/White,1
+88,African-American/Black,1
+22,Asian/Pacific Islander,12
+23,African-American/Black,248
+61,Race unspecified,39
+24,Asian/Pacific Islander,9
+59,Asian/Pacific Islander,3
+54,African-American/Black,41
+52,Hispanic/Latino,32
+3 months,Race unspecified,1
+58,African-American/Black,17
+3,Race unspecified,4
+8,Hispanic/Latino,3
+82,African-American/Black,1
+33,African-American/Black,157
+12,Hispanic/Latino,2
+40,European-American/White,223
+56,Hispanic/Latino,11
+76,Race unspecified,19
+18,Hispanic/Latino,88
+6,Hispanic/Latino,5
+66,European-American/White,41
+12,Asian/Pacific Islander,2
+75,Race unspecified,14
+83,European-American/White,10
+3,African-American/Black,6
+93,African-American/Black,1
+72,European-American/White,20
+65,Native American/Alaskan,1
+27,African-American/Black,210
+7,Race unspecified,6
+69,Hispanic/Latino,8
+30,Hispanic/Latino,97
+30,Middle Eastern,2
+89,European-American/White,4
+40,Middle Eastern,1
+81,Race unspecified,7
+85,European-American/White,2
+28,European-American/White,261
+56,European-American/White,114
+46,African-American/Black,59
+37,Asian/Pacific Islander,11
+21,Hispanic/Latino,127
+18-25,Race unspecified,2
+86,Race unspecified,4
+25,Middle Eastern,3
+32,Middle Eastern,1
+18,African-American/Black,199
+46,Hispanic/Latino,41
+69,African-American/Black,2
+101,European-American/White,1
+1,Race unspecified,4
+15,European-American/White,42
+18,European-American/White,140
+39,Native American/Alaskan,9
+34,Race unspecified,201
+14,Race unspecified,27
+91,Race unspecified,2
+54,European-American/White,120
+57,Asian/Pacific Islander,4
+20,Middle Eastern,4
+35,Asian/Pacific Islander,11
+97,European-American/White,1
+12,Race unspecified,8
+6,European-American/White,8
+74,Hispanic/Latino,4
+36,Race unspecified,209
+22,Race unspecified,246
+22,African-American/Black,261
+63,Hispanic/Latino,9
+50s,Race unspecified,5
+32,Hispanic/Latino,121
+52,Race unspecified,91
+27,Hispanic/Latino,119
+15,Hispanic/Latino,28
+78,African-American/Black,4
+71,African-American/Black,3
+107,African-American/Black,1
+25,European-American/White,240
+32,Asian/Pacific Islander,14
+59,African-American/Black,23
+23,Asian/Pacific Islander,12
+20,Native American/Alaskan,8
+79,Race unspecified,5
+21,Race unspecified,228
+31,African-American/Black,176
+80,Race unspecified,5
+65,Race unspecified,41
+9,African-American/Black,7
+13,Race unspecified,7
+76,Hispanic/Latino,1
+54,Native American/Alaskan,1
+45,Hispanic/Latino,55
+5,Hispanic/Latino,1
+11 mon,Race unspecified,1
+56,Race unspecified,76
+45,African-American/Black,72
+41,Asian/Pacific Islander,7
+25,Native American/Alaskan,14
+92,African-American/Black,1
+37,Race unspecified,182
+37,Native American/Alaskan,5
+11,African-American/Black,9
+16,Native American/Alaskan,1
+22,Middle Eastern,1
+20s,Race unspecified,9
+30s,European-American/White,2
+32,Native American/Alaskan,8
+28,Middle Eastern,1
+41,European-American/White,180
+42,African-American/Black,83
+87,Race unspecified,8
+19,Middle Eastern,1
+35,European-American/White,250
+18,Race unspecified,177
+40,African-American/Black,102
+52,European-American/White,138
+7,European-American/White,2
+52,Asian/Pacific Islander,3
+72,African-American/Black,5
+52,African-American/Black,43
+67,Hispanic/Latino,4
+29,African-American/Black,204
+19,Hispanic/Latino,102
+82,European-American/White,4
+43,European-American/White,188
+61,European-American/White,69
+38,Native American/Alaskan,4
+42,Hispanic/Latino,72
+5,European-American/White,11
+29,Native American/Alaskan,9
+80,African-American/Black,3
+81,European-American/White,7
+14,Hispanic/Latino,19
+37,European-American/White,210
+43,Asian/Pacific Islander,10
+20s,European-American/White,1
+35,African-American/Black,127
+72,Race unspecified,15
+43,African-American/Black,95
+84,European-American/White,8
+59,Hispanic/Latino,8
+29,Middle Eastern,4
+95,European-American/White,1
+58,Asian/Pacific Islander,1
+44,Race unspecified,157
+10,European-American/White,8
+63,African-American/Black,13
+70,African-American/Black,1
+26,Native American/Alaskan,13
+17,African-American/Black,118
+84,Hispanic/Latino,1
+4,Hispanic/Latino,5
+43,Native American/Alaskan,3
+65,Asian/Pacific Islander,1
+53,Race unspecified,79
+16,European-American/White,59
+30,Asian/Pacific Islander,11
+21,Middle Eastern,5
+63,Race unspecified,26
+45,Asian/Pacific Islander,6
+39,African-American/Black,108
+52,Middle Eastern,2
+55,European-American/White,113
+36,European-American/White,223
+10,Hispanic/Latino,5
+77,Hispanic/Latino,1
+42,Race unspecified,177
+25,Race unspecified,210
+45,European-American/White,212
+5,African-American/Black,4
+84,African-American/Black,2
+23,Hispanic/Latino,146
+60,Race unspecified,48
+34,African-American/Black,149
+47,African-American/Black,66
+67,Race unspecified,18
+69,European-American/White,27
+20,Asian/Pacific Islander,7
+17,Hispanic/Latino,67
+16,Middle Eastern,2
+24,African-American/Black,252
+16,Race unspecified,85
+53,African-American/Black,32
+51,Asian/Pacific Islander,4
+65,African-American/Black,6
+55,Hispanic/Latino,23
+68,Asian/Pacific Islander,2
+17,European-American/White,89
+40s,Race unspecified,3
+38,Race unspecified,189
+88,Race unspecified,1
+18,Asian/Pacific Islander,4
+57,African-American/Black,30
+53,Hispanic/Latino,15
+76,Asian/Pacific Islander,1
+58,Hispanic/Latino,15
+26,Hispanic/Latino,132
+32,Race unspecified,197
+37,African-American/Black,138
+4,European-American/White,5
+54,Asian/Pacific Islander,3
+33,Race unspecified,220
+48,Hispanic/Latino,27
+27,Asian/Pacific Islander,21
+68,European-American/White,36
+48,African-American/Black,78
+19,Asian/Pacific Islander,9
+47,Asian/Pacific Islander,6
+21,African-American/Black,252
+15,Race unspecified,58
+63,European-American/White,48
+49,Race unspecified,124
+78,Race unspecified,13
+70,Race unspecified,19
+3,Hispanic/Latino,2
+55,Race unspecified,76
+15,Asian/Pacific Islander,3
+36,Asian/Pacific Islander,12
+11,Hispanic/Latino,6
+78,European-American/White,13
+78,Hispanic/Latino,2
+19,Race unspecified,182
+54,Race unspecified,82
+69,Race unspecified,21
+58,Race unspecified,80
+32,African-American/Black,153
+50,African-American/Black,55
+71,European-American/White,18
+92,Race unspecified,1
+35,Race unspecified,175
+72,Asian/Pacific Islander,1
+28,Race unspecified,182
+20,European-American/White,168
+34,Native American/Alaskan,8
+60,Asian/Pacific Islander,5
+13,African-American/Black,16
+49,Native American/Alaskan,3
+22,Hispanic/Latino,155
+48,Race unspecified,136
+73,African-American/Black,5
+1,European-American/White,5
+26,Middle Eastern,1
+31,Asian/Pacific Islander,12
+3,European-American/White,7
+57,Hispanic/Latino,16
+16,African-American/Black,99
+44,African-American/Black,66
+17,Middle Eastern,1
+12,European-American/White,7
+11,European-American/White,2
+60,African-American/Black,21
+41,Race unspecified,175
+60s,Race unspecified,3
+42,Middle Eastern,1
+24,European-American/White,229
+26,European-American/White,254
+6,African-American/Black,3
+17,Asian/Pacific Islander,1
+41,African-American/Black,95
+13,Native American/Alaskan,1
+38,Asian/Pacific Islander,13
+9 months,African-American/Black,1
+19,European-American/White,139
+39,Asian/Pacific Islander,10
+91,European-American/White,4
+30,African-American/Black,195
+27,Race unspecified,234
+75,European-American/White,17
+50,European-American/White,171
+28,African-American/Black,193
+32,European-American/White,240
+37,Hispanic/Latino,81
+35,Hispanic/Latino,116
+62,Middle Eastern,1
+85,Race unspecified,2
+23,Native American/Alaskan,8
+18 months,Race unspecified,1
+26,Race unspecified,193
+35,Native American/Alaskan,8
+30,Native American/Alaskan,8
+56,Native American/Alaskan,1
+73,Race unspecified,11
+60s,African-American/Black,1
+29,Hispanic/Latino,132
+55,African-American/Black,31
+66,Race unspecified,29
+22,Native American/Alaskan,12
+30s,Race unspecified,2
+24,Hispanic/Latino,126
+20s,Hispanic/Latino,2
+34,Middle Eastern,1
+36,Middle Eastern,1
+46,European-American/White,160
+49,European-American/White,174
+62,Race unspecified,38
+87,African-American/Black,1
+38,Middle Eastern,1
+84,Race unspecified,7
+42,HIspanic/Latino,1
+21,European-American/White,186
+51,Hispanic/Latino,32
+56,African-American/Black,39
+74,European-American/White,15
+50,Asian/Pacific Islander,7
+47,Race unspecified,151
+70,European-American/White,24
+62,Asian/Pacific Islander,2
+61,Hispanic/Latino,7
+42,Native American/Alaskan,3
+31,Native American/Alaskan,7
+57,Race unspecified,72
+46,Race unspecified,144
+39,Race unspecified,177
+25,Hispanic/Latino,138
+8,European-American/White,6
+14,European-American/White,21
+22,European-American/White,203
+50,Hispanic/Latino,32
+40,Asian/Pacific Islander,5
+67,African-American/Black,9
+25`,European-American/White,1
+44,Native American/Alaskan,7
+80,Hispanic/Latino,2

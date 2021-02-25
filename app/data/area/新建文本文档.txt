@@ -1,0 +1,2 @@
+x 轴 死亡区域 dieCountry
+y轴 数量 count

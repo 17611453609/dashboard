@@ -1,0 +1,2107 @@
+Gender,dieCountry,count
+Male,Columbia,36
+Male,Pima,135
+Female,Cobb,10
+Male,Barrow,6
+Male,Stearns,6
+Female,Prince George's,4
+Female,Crenshaw,1
+Male,Kimball,1
+Female,Volusia,11
+Male,Tift,3
+Male,Russell,16
+Male,Rio Arriba,6
+Male,Glynn,8
+Male,Crockett,4
+Female,Du Page,1
+Male,Oskaloosa,1
+Female,Anson,2
+Female,Racine,1
+Male,Mille Lacs,3
+Male,Horry,29
+Male,Gila,6
+Male,Outagamie,10
+Male,Breckinridge,1
+Male,La Porte,1
+Male,Pendleton,1
+Male,Butte,30
+Male,Sandoval,11
+Male,Portsmouth City,11
+Female,Spartanburg,10
+Female,Polk,13
+Male,Dougherty,5
+Female,Hartford,1
+Female,Sarasota,2
+Female,Wayne,34
+Male,Emmet,3
+Male,Piatt,2
+Female,Greenwood,4
+Male,Dallam,2
+Female,Pittsylvania,1
+Female,Dawson,2
+Male,Gallatin,6
+Male,Hawkins,6
+Female,Mobile,5
+Male,Ontario,2
+Male,Payne,10
+Male,Bedford City,3
+Male,Hood,2
+Female,Sutter,2
+Male,Colquitt,4
+Male,Graves,1
+Female,Albany,1
+Female,Alamosa,1
+Male,Danville City,8
+Female,Mecklenburg,5
+Male,White,11
+Male,Snohomish,49
+Female,Cambria,2
+Male,Camas,1
+Male,Blue Earth,6
+Male,Chaffee,3
+Female,Richmond,4
+Male,Venango,2
+Female,Pembina,1
+Female,Cleveland,1
+Male,Saline,31
+Male,Baltimore,87
+Male,Letcher,2
+Male,Richmond,39
+Male,Litchfield,4
+Female,Middlesex,2
+Male,Concordia,2
+Male,Seminole,20
+Male,Tyler,2
+Female,Kenai Peninsula,1
+Male,Hillsborough,96
+Male,Jackson,246
+Male,Plymouth,16
+Female,Linn,6
+Male,Lafayette,33
+Male,Wood,13
+Male,Conecuh,2
+Female,Roanoke,1
+Female,Maury,1
+Female,Nueces,4
+Male,Drew,2
+Male,Okanogan,3
+Female,Josephine,1
+Female,Attala,2
+Female,Cleburne,2
+Transgender,Webb,1
+Male,Chester,22
+Female,Hall,2
+Female,Hillsborough,15
+Male,Apache,8
+Female,Talladega,3
+Male,Alcona,1
+Male,Pickaway,7
+Male,Riverside,239
+Male,Sarasota,20
+Male,Greenville,47
+Female,Anne Arundel,4
+Male,Sweetwater,2
+Male,Kerr,7
+Male,Stanton,1
+Male,Wirt,1
+Male,Tucker,1
+Male,Murray,2
+Female,Cass,2
+Male,Saratoga,2
+Male,Osage,6
+Male,Hitchcock,1
+Male,Kittitas,2
+Male,Traverse,1
+Male,Johnston County,1
+Male,Richmond City,21
+Male,Cheboygan,3
+Male,Delta,3
+Female,Ada,2
+Male,Bastrop,4
+Male,Atchison,2
+Male,Newberry,3
+Female,Kerr,1
+Male,El Paso,114
+Male,Ventura,65
+Male,Henderson,20
+Male,Cole,10
+Male,Pottawattamie,11
+Male,Watauga,5
+Male,Woodson,2
+Female,Hale,1
+Male,Nez Perce,2
+Male,Saluda,1
+Female,Pike,1
+Male,Beckham,2
+Female,Union,6
+Male,Nye,6
+Male,Mason,7
+Male,Grand Traverse,5
+Male,Maui,6
+Female,Travis,9
+Male,Lycoming,6
+Male,Van Zandt,3
+Female,Indiana,1
+Male,Callahan,1
+Male,Defiance,1
+Female,Steele,1
+Male,Thomas,6
+Male,Lawrence,36
+Male,Spotsylvania,6
+Male,Metcalfe,2
+Female,Upson,1
+Female,Oconee,2
+Male,Amador,1
+Male,Ripley,1
+Male,Worcester,21
+Male,Dyer,9
+Female,Kenosha,1
+Male,Rusk,5
+Male,Wilkes,4
+Male,Northumberland,5
+Male,Heard,2
+Male,Sebastian,9
+Male,Humboldt,20
+Female,Sebastian,2
+Male,Collin,20
+Male,Blair,4
+Male,St. Mary's,3
+Male,Prowers,1
+Female,Roane,1
+Female,Bowie,2
+Male,Wilbarger,1
+Male,Vermilion,12
+Male,Ramsey,49
+Male,DuPage,15
+Male,Rowan,8
+Male,Nolan,7
+Male,Rock,9
+Female,Tangipahoa,2
+Female,Laramie,2
+Male,Franklin City,1
+Male,Butts,5
+Male,Toombs,1
+Male,Jeff Davis,1
+Female,Pittsburg,1
+Male,Dekalb,2
+Male,Santa Clara,121
+Male,Douglas,116
+Male,Guernsey,1
+Female,Santa Clara,15
+Male,Holmes,8
+Female,Smith,3
+Male,Twin Falls,6
+Male,Wabash,3
+Male,Stanly,5
+Male,Neosho,2
+Male,Turner,2
+Transgender,Fulton,1
+Male,Alamosa,2
+Male,Montcalm,4
+Male,McHenry,7
+Female,Woodbury,2
+Male,Assumption,1
+Male,Florence,12
+Male,Summers,1
+Male,Harrisonburg City,1
+Male,Brooklyn,1
+Male,Muskogee,10
+Female,Fredericksburg City,1
+Male,Angelina,8
+Female,Pinal,1
+Female,Johnston,1
+Female,Gooding,1
+Male,Saint Mary's,1
+Male,Dauphin,27
+Female,Sonoma,6
+Male,Lubbock,29
+Male,San Luis Obispo,10
+Female,Brazoria,4
+Female,Winnebago,7
+Male,Gregg,22
+Male,Prince Edward,2
+Male,Haralson,2
+Male,Ashe,2
+Male,Cochran,1
+Male,Lee,69
+Male,Talladega,13
+Male,Roane,9
+Male,Okfuskee,2
+Male,Green Lake,1
+Female,Sandusky,2
+Male,Perry,18
+Female,Chickasaw,1
+Female,Yellowstone,1
+Female,Lancaster,3
+Male,Snyder,2
+Female,Tift,1
+Male,St. Louis CIty,1
+Male,Shelby,126
+Male,Marshall,27
+Male,Northwest Arctic,2
+Male,Dane,34
+Female,Forrest,4
+Female,Hamilton,13
+Male,Rapides,7
+Female,Tulare,13
+Female,Monmouth,3
+Male,Taos,3
+Male,Missaukee,1
+Male,Macomb,47
+Male,Scioto,2
+Male,Franklin,199
+Male,Halifax,7
+Male,Sherman,4
+Female,Genesee,10
+Male,Brunswick,9
+Male,Belmont,3
+Male,Lyon,8
+Male,Bannock,7
+Male,Pend Oreille,2
+Female,Greene,7
+Female,Pickens,1
+Transgender,Mercer,1
+Male,Bennington,1
+Male,Caddo,48
+Male,Volusia,54
+Male,Ohio,4
+Male,Athens-Clarke,5
+Female,Deschutes,2
+Male,Howell,2
+Male,Hutchinson,1
+Male,Buchanan,15
+Male,Lauderdale,20
+Male,Powhatan,3
+Female,St. Francois,2
+Female,Crittenden,3
+Male,Stone,5
+Male,Cedar,1
+Female,Macon,2
+Transgender,New York,1
+Female,Crawford,5
+Male,Bibb,19
+Male,San Francisco,83
+Female,St. Louis,15
+Male,Burlington,13
+Male,Carroll,17
+Male,Accomack,1
+Male,Claiborne,6
+Male,Autauga,6
+Female,Cape Girardeau,1
+Female,Midland,2
+Male,West Baton Rouge,5
+Male,Allegany,4
+Male,Will,22
+Male,Bureau,3
+Male,Hawaii,17
+Male,Muhlenberg,3
+Male,Trumbull,9
+Male,Sutter,12
+Male,Dunklin,2
+Male,Forest,6
+Male,Lynn,2
+Female,Dawes,1
+Female,Peach,1
+Female,Hinds,13
+Male,Middlesex,46
+Male,Canadian,9
+Male,Ingham,6
+Male,Bowie,8
+Female,Nome,1
+Male,Warrick,3
+Male,McIntosh,4
+Male,Hudspeth,2
+Female,Gadsden,1
+Female,Candler,1
+Male,Pittsburg,3
+Male,St. Francis County,1
+Male,New Haven,37
+Male,Osceola,9
+Male,Morrow,3
+Male,Wadena,1
+Male,Pratt,2
+Male,Auglaize,3
+Female,Bay,3
+Male,Evangeline,6
+Male,Darlington,4
+Male,Beauregard,5
+Male,Winkler,1
+Male,Hays,12
+Male,Alamance,7
+Female,Clackamas,2
+Male,Torrance,2
+Male,Boyle,2
+Male,Minnehaha,5
+Male,Bleckley,2
+Female,Davis,2
+Male,Delaware,50
+Male,Johnston,9
+Male,Boone,27
+Male,Frederick,28
+Male,Wabaunsee,1
+Male,Valley,2
+Female,Washoe,2
+Male,Plumas,2
+Male,Pecos,3
+Male,Coweta,5
+Male,Berkshire,1
+Male,DeBaca,1
+Male,Charleston,39
+Female,DuPage,5
+Female,Walworth,2
+Male,Ashtabula,8
+Male,Erie,30
+Male,Breathitt,4
+Female,Oldham,2
+Male,Magoffin,1
+Female,Cerro Gordo,1
+Male,Quay,1
+Male,Cuyahoga,147
+Male,Martin,14
+Male,Otter Tail,1
+Transgender,Douglas,1
+Female,Broward,14
+Male,Payette,2
+Female,Pickaway,1
+Male,Oconto,1
+Male,Essex,133
+Male,Duval,124
+Male,Dakota,18
+Male,Stewart,2
+Male,Chase,2
+Female,Napa,3
+Female,Gordon,2
+Male,Wayne,198
+Male,St. Lucie,21
+Female,Dane,3
+Male,Acadia,7
+Male,Weber,31
+Male,Loudon,7
+Male,Hillsdale,2
+Male,Inyo,3
+Male,Milam,2
+Female,Citrus,5
+Male,Tippah,3
+Male,Box Butte,1
+Male,Knott,3
+Male,Knox,62
+Female,Emanuel,1
+Female,Dakota,2
+Female,Rockingham,3
+Male,Bartow,14
+Male,Jersey,2
+Female,Tipton,1
+Male,Cherokee,40
+Female,Kitsap,2
+Male,Okaloosa,10
+Female,Larimer,3
+Male,Guadalupe,6
+Male,Moffat,1
+Female,St. Francis,1
+Female,Effingham,1
+Male,Orange,362
+Male,Alameda,193
+Male,Berrien,20
+Male,Scott,36
+Male,Buena Vista,1
+Transgender,Yakima,1
+Female,York,7
+Male,Clearwater,1
+Male,Wicomico,9
+Female,Phelps,1
+Male,Story,4
+Female,Berks,1
+Male,Ogle,1
+Female,Denver,8
+Female,Liberty,6
+Male,Lenawee,8
+Male,Yavapai,23
+Male,Carver,3
+Female,Glynn,2
+Female,Barren,1
+Male,Des Moines,4
+Female,Georgetown,1
+Male,McLeod,1
+Female,Sumter,2
+Female,Butler,2
+Male,DeKalb,90
+Male,San Joaquin,89
+Male,Sussex,23
+Male,Cascade,9
+Male,Whitfield,4
+Male,Kershaw,4
+Female,Fayette,7
+Male,Cherry,2
+Male,Tishomingo,3
+Male,Shoshone,2
+Male,Miami-Dade,189
+Male,Albemarle,8
+Male,Eaton,6
+Female,Humboldt,2
+Female,Elmore,2
+Male,Bullitt,1
+Male,Moultrie,1
+Male,Montague,2
+Male,Matanuska-Susitna,16
+Male,Barton,6
+Male,Sequatchie,3
+Male,Colbert,11
+Female,Santa Fe,5
+Female,Page,1
+Female,Indian River,2
+Male,Monterey,33
+Male,LaSalle,7
+Male,Warren,35
+Male,Suffolk,73
+Male,Penobscot,15
+Male,Napa,14
+Male,King George,2
+Male,Navajo,7
+Male,Wagoner,6
+Female,Hernando,1
+Male,Klickitat,1
+Male,St Clair,2
+Female,Lane,1
+Male,Mower,1
+Female,Bethel,1
+Female,Bibb,4
+Male,Floyd,19
+Female,Arapahoe,3
+Male,New Hanover,14
+Male,Clackamas,22
+Male,Emporia City,1
+Male,Calloway,3
+Female,Matanuska-Susitna,3
+Female,Rockdale,2
+Male,Washentaw,2
+Male,Okmulgee,8
+Female,Edgecombe,1
+Male,Converse,3
+Male,McKean,1
+Male,Virginia Beach,1
+Male,St. Helena,1
+Female,Wake,6
+Male,Ben Hill,1
+Male,Greenbrier,2
+Male,Yamhill,5
+Male,Chouteau,1
+Female,Martin,1
+Female,Lamar,2
+Female,Gregg,2
+Female,Richmond City,3
+Male,Person,1
+Male,Oakland,62
+Male,Mobile,56
+Male,Morris,11
+Male,Craig,3
+Male,Avoyelles,4
+Male,Kendall,8
+Male,Yuma,10
+Male,Christian,8
+Male,Pettis,6
+Male,Greer,1
+Male,Denver,93
+Female,Lafayette,4
+Male,Jones,6
+Male,Washburn,2
+Male,Barbour,9
+Male,Marlboro,1
+Male,Concho,3
+Female,Jim Wells,1
+Female,Venango,1
+Male,Porter,13
+Female,Scott,4
+Male,Aroostook,10
+Male,Ellis,17
+Male,Cache,5
+Male,Alcorn,1
+Male,Hampton City,9
+Male,Marquette,1
+Male,Calvert,4
+Female,Baker,2
+Male,De Soto,2
+Female,Cowlitz,2
+Male,Belknap,5
+Male,Rhea,2
+Male,Grand,4
+Male,Woodward,2
+Male,Bonneville,13
+Male,Carter,18
+Male,Cleveland,29
+Male,New Castle,31
+Male,Baker,2
+Female,Allegan,1
+Female,Dale,1
+Female,Morehouse,1
+Male,Galveston,33
+Male,Stephens,10
+Female,Bexar,17
+Male,St. Tammany,22
+Male,Rockingham,18
+Male,San Patricio,7
+Male,Raleigh,5
+Female,Grand Forks,2
+Female,Giles,1
+Male,Geauga,2
+Male,Gentry,1
+Male,Owsley,1
+Male,Gloucester,12
+Male,Lexington,28
+Male,Platte,14
+Male,Sacramento,133
+Female,Henrico,8
+Male,McClean,1
+Male,Benewah,1
+Male,Umatilla,5
+Female,Davidson,4
+Female,St. Johns,2
+Male,Cheatham,1
+Male,Dinwiddie,2
+Female,Yankton,2
+Male,Walla Walla,1
+Female,Kay,1
+Female,Gloucester,2
+Male,Cobb,63
+Male,Suffolk City,4
+Male,Wilson,13
+Male,Leon,22
+Male,Coahoma,8
+Male,Charlottesville City,2
+Male,Sac,1
+Male,Llano,5
+Female,Kanawha,3
+Male,Gage,2
+Male,Archuleta,1
+Male,Lewis and Clark,4
+Female,Mohave,4
+Male,Marathon,5
+Female,Dodge,2
+Male,Athens,1
+Male,Cass,28
+Male,Clarke,14
+Female,Carroll,6
+Male,Prince William,8
+Male,Darke,2
+Female,Allen,4
+Female,Forest,3
+Female,Rutherford,2
+Male,Pershing,1
+Male,Toole,1
+Male,Champaign,9
+Male,Huntington,6
+Male,Macon,11
+Female,Black Hawk,1
+Male,Flathead,6
+Male,Cheshire,7
+Male,Louisa,2
+Male,Schuyler,1
+Male,Maricopa,412
+Female,Daviess,1
+Male,Bourbon,5
+Male,Eau Claire,11
+Male,Mitchell,2
+Male,Fauquier,2
+Female,Cabell,1
+Male,Fayette,54
+Male,Santa Fe,19
+Male,Dodge,8
+Female,Raleigh,2
+Male,Lexington City,2
+Male,Sierra,2
+Male,Sanilac,2
+Male,Duchesne,3
+Female,Granville,2
+Male,Shenandoah,2
+Male,Cooper,1
+Male,Greenlee,1
+Female,Grays Harbor,2
+Male,Steele,2
+Male,Greenup,1
+Female,Baldwin,4
+Male,Jerome,2
+Male,Ionia,10
+Male,Kent,46
+Male,Washita,4
+Male,Prince George,3
+Male,Vance,2
+Male,Hempstead,1
+Female,Mississippi,1
+Female,St. Lucie,1
+Female,Iberville,1
+Male,St. Mary,7
+Male,New York,55
+Male,Wichita,15
+Female,Providence,1
+Female,Solano,4
+Male,Keokuk,1
+Male,Shannon,1
+Male,Clinch,1
+Male,St Lucie,1
+Male,Love,1
+Male,Hanover,1
+Male,Dona Ana,32
+Male,Cameron,27
+Male,Linn,16
+Male,DeWitt,1
+Female,Dunn,1
+Male,Sangamon,16
+Female,Pinellas,15
+Male,Tehama,15
+Female,Philadelphia,16
+Male,Hinds,35
+Male,Thurston,20
+Male,Laramie,10
+Female,Tarrant,14
+Female,Garland,5
+Transgender,St. Louis City,1
+Male,Dearborn,1
+Male,Queens,44
+Male,Ottawa,20
+Female,Wood,4
+Male,Westmoreland,25
+Female,Washington,17
+Female,Clark,25
+Male,McKinley,3
+Female,Cook,77
+Female,Camden,4
+Male,Chittenden,9
+Male,Hernando,17
+Female,Douglas,12
+Female,Bernalillo,16
+Male,Indian River,7
+Male,Victoria,4
+Male,Hot Spring,5
+Male,Yazoo,2
+Male,Atoka,2
+Male,Williams,3
+Male,Woodford,1
+Male,Carson,1
+Female,Claiborne,1
+Male,Oklahoma,163
+Male,Contra Costa,99
+Female,Hennepin,12
+Male,Windham,9
+Male,Cabarrus,6
+Female,Newport News City,2
+Male,Lane,27
+Male,Bedford,6
+Female,Durham,2
+Female,Oneida,1
+Female,Pennington,1
+Female,La Salle,1
+Male,McClain,1
+Male,City of Chesapeake,1
+Female,McMinn,1
+Male,Anoka,11
+Male,Monmouth,11
+Male,Cheyenne,3
+Female,St. John the Baptist,2
+Female,Seneca,1
+Female,Collier,3
+Male,Davidson,59
+Male,Carteret,2
+Male,New Kent,3
+Male,Boulder,22
+Male,Buffalo,4
+Female,Thurston,5
+Male,Sabine,3
+Male,Falls,1
+Male,Webb,17
+Male,Kankakee,1
+Male,Charlton,1
+Female,Stafford,1
+Male,Hart,2
+Male,Kenai Peninsula,13
+Female,Morgan,3
+Male,Trinity,3
+Male,Major,2
+Female,Kendall,1
+Male,Palm Beach,104
+Male,Giles,5
+Male,Jim Hogg,7
+Female,Dougherty,1
+Male,Cibola,2
+Female,Salt Lake,4
+Female,Prairie,1
+Male,Cayuga,1
+Male,Nowata,1
+Male,Waupaca,1
+Male,Ada,29
+Male,Portage,8
+Male,Winchester City,5
+Male,St. Joseph,32
+Male,Clarion,2
+Male,St. Francois,5
+Female,Fairfield,1
+Male,Crenshaw,1
+Female,Webb,5
+Female,Bristol,1
+Female,Hocking,1
+Male,Sonoma,46
+Female,Floyd,4
+Male,Multnomah,66
+Male,Putnam,26
+Male,Buncombe,9
+Female,Marion,22
+Female,Clarke,3
+Male,Fannin,8
+Male,Eastland,3
+Male,Tipton,3
+Male,Boyd,1
+Male,Alger,1
+Male,Gasconade,2
+Male,Carbon,12
+Male,Rankin,16
+Male,Klamath,8
+Male,Highlands,6
+Female,Kent,3
+Male,McDonald,2
+Female,Hunt,1
+Male,Cottonwood,1
+Male,LeFlore,1
+Female,St. Louis City,18
+Male,Morgan,26
+Male,Hamblen,9
+Female,Baxter,1
+Male,Childress,2
+Male,Dutchess,7
+Male,Box Elder,2
+Male,Braziria,1
+Female,Christian,1
+Female,Yalobusha,1
+Male,Washoe,60
+Male,Rabun,2
+Male,Roanoke City,16
+Male,Jefferson Davis,2
+Female,Haralson,1
+Male,Todd,5
+Male,Bath,3
+Male,Menard,2
+Male,Gonzales,1
+Female,Brewster,1
+Female,Alamance,1
+Male,Los Angeles,1074
+Male,Lancaster,45
+Male,Niagara,5
+Female,McCook,1
+Female,Muskogee,1
+Male,Armstrong,1
+Male,Anne Arundel,31
+Female,Hardeman,1
+Male,Baldwin,20
+Male,Pinal,27
+Female,Virginia Beach City,2
+Male,Pittsylvania,3
+Male,Benzie,1
+Female,McDonough,1
+Male,Garrett,1
+Male,Bradford,5
+Male,Wallowa,2
+Female,Gwinnett,7
+Male,Grand Forks,6
+Female,Hancock,2
+Male,Tangipahoa,21
+Male,Del Norte,5
+Male,Kitsap,16
+Male,Pennington,20
+Male,Le Flore,4
+Female,Pratt,1
+Male,Bates,3
+Female,Worth,1
+Female,Morris,1
+Male,Bronx,62
+Female,Fulton,19
+Male,Noble,5
+Male,Nueces,33
+Male,James City,3
+Male,Petersburg City,7
+Male,Hertford,2
+Female,Newton,5
+Male,Rice,3
+Male,Medina,9
+Female,Garfield,1
+Female,Berkeley,4
+Female,Rapides,1
+Male,Nelson,3
+Male,Bent,2
+Male,Larimer,30
+Male,Manistee,2
+Male,Sheboygan,6
+Male,Greensville,2
+Male,Grayson,9
+Female,Clarl,1
+Male,Manhattan,4
+Male,Mecklenburg,60
+Female,Franklin,16
+Male,Seward,4
+Male,Kanabec,2
+Male,Brazos,2
+Male,Spokane,57
+Male,Pueblo,37
+Male,Northampton,19
+Male,Calcasieu,19
+Male,Tate,5
+Female,Chisago,1
+Male,McDuffie,2
+Male,DC,1
+Female,Merced,2
+Male,Meriwether,3
+Female,Monongalia,2
+Male,Itawamba,1
+Female,Lebanon,1
+Female,Westmoreland,2
+Female,St. Charles,3
+Female,Natchitoches,1
+Male,Johnson,54
+Male,Iowa,3
+Male,Kimble,1
+Male,Kaufman,12
+Female,El Dorado,1
+Male,Cambria,6
+Male,Curry,2
+Female,Mendocino,2
+Female,Medina,1
+Male,Polk,114
+Female,Rockland,2
+Male,Guilford,30
+Female,Hampton City,2
+Male,Currituck,1
+Female,Riverside,17
+Female,Sedgwick,13
+Male,Harvey,8
+Female,Campbell,4
+Female,Robertson,1
+Female,Leavenworth,1
+Female,White,1
+Male,Aitkin,1
+Male,Cleburne,2
+Male,Gunnison,1
+Male,Park,7
+Male,Allen,41
+Female,Bronx,6
+Female,Grant,5
+Male,Palo Alto,1
+Female,Orleans,5
+Female,McDowell,1
+Female,Cattaraugus,1
+Male,Rockwall,4
+Male,Bertie,1
+Female,Muscogee,3
+Female,Goodhue,1
+Male,Overton,1
+Male,Arlington,9
+Male,McDowell,4
+Male,Fort Bend,22
+Male,Deuel,2
+Male,Sheridan,6
+Male,Laurel,5
+Female,Lawrence,3
+Male,Newport,2
+Male,Shackelford,1
+Female,Carbon,1
+Male,Chilton,1
+Male,Millard,1
+Male,Wythe,2
+Male,Bond,2
+Female,Eddy,1
+Male,Travis,71
+Male,Milwaukee,112
+Male,Lapeer,8
+Female,Erie,8
+Male,Mineral,5
+Female,Carson City,1
+Female,Bossier,2
+Male,Massac,3
+Female,Worcester,1
+Female,Decatur,2
+Male,Ashland,3
+Male,Eureka,1
+Male,Virginia Beach City,26
+Male,Summit,53
+Male,Randolph,25
+Male,Gove,2
+Male,Scurry,3
+Female,Williamson,2
+Male,Hocking,2
+Male,Leflore,1
+Male,Glenn,1
+Female,Hampton,1
+Male,Peoria,16
+Male,Georgetown,5
+Female,Jasper,6
+Male,Oconee,8
+Male,Starke,4
+Male,Washtenaw,7
+Male,Worth,3
+Male,Jenkins,2
+Female,Woodward,2
+Male,Foard,1
+Male,Refugio,1
+Female,Monterey,6
+Female,Oklahoma,13
+Female,Anchorage,2
+Male,Bay,25
+Male,Ross,1
+Male,Lamar,14
+Male,Geneva,2
+Female,Starke,1
+Male,Pawnee,2
+Female,Blair,1
+Female,Yolo,3
+Male,Huron,2
+Male,Lynchburg,1
+Male,Lake,130
+Male,Fairfax,32
+Female,Cocke,1
+Male,Macoupin,4
+Male,Orangeburg,11
+Male,Lea,8
+Male,Natchitoches,6
+Male,Maverick,2
+Male,Transylvania,1
+Male,Philadephia,1
+Male,Atkinson,1
+Male,Cape Girardeau,8
+Male,Rockland,8
+Male,Bartholomew,3
+Male,Phelps,6
+Male,Caroline,3
+Female,Cameron,3
+Female,Harrison,3
+Male,Chemung,3
+Male,Mercer,41
+Male,Citrus,12
+Male,Sawyer,3
+Male,Salem,6
+Female,Gallia,1
+Female,Teller,2
+Male,Forsyth,22
+Female,Tishomingo,1
+Female,Davison,1
+Female,Van Zandt,1
+Female,Coffee,1
+Male,Winona,2
+Male,Clallam,7
+Female,Northumberland,2
+Male,Allendale,1
+Male,Addison,2
+Male,Culpeper,5
+Female,Comal,2
+Male,Baca,1
+Male,Philadelphia,197
+Male,Hancock,19
+Male,Mayes,8
+Male,Lehigh,27
+Male,Webster,18
+Male,Kenosha,9
+Male,Skamania,1
+Male,Mingo,4
+Male,Palo Pinto,3
+Female,Des Moines,1
+Male,Desoto,1
+Male,Salt Lake,96
+Female,Pierce,10
+Male,Tarrant,116
+Male,Casey,1
+Male,Saunders,2
+Male,Cooke,4
+Male,Deschutes,12
+Male,Rogers,4
+Male,Granville,4
+Male,Craighead,10
+Male,Branch,4
+Male,Wheeler,3
+Male,Silver Bow,2
+Female,Marshall,4
+Transgender,San Diego,1
+Male,Keith,3
+Male,Kay,1
+Male,Cross,1
+Female,Flathead,1
+Male,Pearl River,3
+Male,Bossier,9
+Male,Newport News City,13
+Male,Steuben,4
+Female,Brunswick,1
+Female,Harnett,2
+Male,Sherburne,3
+Male,Licking,6
+Female,Bolivar,2
+Male,Appling,1
+Male,Lebanon,5
+Male,Schenectady,11
+Female,Sevier,3
+Male,Wilkinson,2
+Male,Onslow,6
+Male,St Louis,1
+Male,Titus,3
+Female,Dent,1
+Male,Arkansas,2
+Female,Falls,2
+Male,Ouachita,15
+Male,Ste. Genevieve,2
+Male,Winnebago,39
+Female,Richland,3
+Male,Mills,1
+Female,Ramsey,4
+Male,Hunt,6
+Female,Kershaw,1
+Male,Gem,2
+Female,Guadalupe,1
+Male,Randall,10
+Male,Pasco,24
+Male,La Crosse,7
+Male,Santa Barbara,35
+Male,Clayton,31
+Male,Chisago,5
+Male,Upshur,3
+Male,Denton,27
+Male,Crow Wing,2
+Female,Norfolk City,6
+Male,Buckingham,2
+Male,Saint Clair,1
+Female,Botetourt,1
+Male,Bergen,26
+Male,Dawson,3
+Female,Perry,4
+Male,McCracken,5
+Male,Crisp,2
+Female,DeSoto,3
+Male,Catoosa,4
+Male,Ocean,24
+Male,Oceana,2
+Female,Lea,2
+Male,Coshocton,1
+Male,Page,1
+Male,Audrain,1
+Male,Shasta,37
+Female,Tulsa,6
+Male,Robeson,15
+Male,Smith,9
+Female,Weber,1
+Female,Petersburg City,1
+Male,Young,1
+Male,Skagit,4
+Male,Mathews,1
+Male,Hall,23
+Male,Marin,16
+Male,Hardin,20
+Male,Gwinnett,57
+Female,Noble,1
+Female,New York,5
+Male,Walker,9
+Female,Colleton,1
+Male,Bracken,1
+Male,Ulster,1
+Female,Hudson,5
+Female,Alcorn,3
+Female,Allegheny,11
+Male,Androscoggin,6
+Male,Harnett,6
+Male,Taylor,15
+Male,Val Verde,1
+Male,Labette,1
+Male,Tulsa,106
+Male,Greene,62
+Female,San Bernardino,17
+Male,Wyandotte,45
+Female,Shelby,16
+Female,Summit,4
+Male,Muscatine,2
+Male,Wise,6
+Male,Laclede,3
+Male,Stokes,1
+Female,Kauai,1
+Male,Lumpkin,1
+Male,Avery,1
+Male,McLean,8
+Male,Carlton,2
+Male,Grenada,7
+Female,Imperial,9
+Male,Alexandria City,5
+Male,Yellowstone,21
+Male,Appomattox,1
+Male,Choctaw,7
+Female,Guilford,8
+Male,Strafford,5
+Female,Colbert,1
+Male,Southeast Fairbanks,1
+Female,Howard,3
+Male,Duplin,1
+Male,Clark,291
+Male,Davis,17
+Male,Sarpy,14
+Male,Meigs,4
+Female,Blount,3
+Female,Greenville,5
+Male,Flagler,4
+Female,Craighead,2
+Female,San Mateo,2
+Male,Gilchrist,2
+Female,Greenup,1
+Female,Androscoggin,1
+Male,Kennebec,11
+Female,Fresno,11
+Male,Madison,124
+Male,Bucks,26
+Male,Emanuel,1
+Male,Windsor,1
+Female,O'Brien,1
+Male,Rio Blanco,4
+Male,Miami,6
+Female,Lauderdale,2
+Male,Seneca,2
+Male,Mississippi,7
+Female,Queen Anne's,1
+Male,Izard,1
+Male,Kinney,2
+Female,Laurens,2
+Male,St. Johns,19
+Male,Carson City,7
+Male,Cocke,4
+Female,McPherson,1
+Male,Burke,10
+Male,Jennings,1
+Female,Steuben,1
+Female,Ocean,3
+Female,Ford,3
+Male,Midland,23
+Male,St. Martin,7
+Male,Catawba,9
+Female,Washtenaw,2
+Female,Amador,1
+Male,Lasalle,1
+Female,Okmulgee,1
+Male,Paulding,4
+Female,Conway,1
+Male,Cumberland,84
+Male,East Baton Rouge,52
+Male,Maries,1
+Male,Kane,25
+Male,Waller,6
+Male,Clare,5
+Female,Delaware,4
+Female,Fort Bend,8
+Male,Ida,1
+Female,Stephenson,2
+Male,Manassas City,1
+Female,Shively,1
+Male,Copiah,1
+Female,Sumner,1
+Male,Wade Hampton,1
+Female,Jackson,26
+Male,Marion,163
+Male,Sandusky,7
+Male,Miller,7
+Male,Missoula,7
+Male,Charlotte,6
+Male,Coryell,3
+Female,LeFlore,2
+Male,Providence,20
+Male,Stark,26
+Male,Yakima,25
+Male,Mackinac,3
+Female,Cochise,2
+Female,Pottawattamie,1
+Male,Natrona,11
+Male,Hidalgo,35
+Female,Santa Cruz,1
+Male,Socorro,1
+Male,Waldo,1
+Male,Latimer,2
+Female,Alameda,30
+Female,Greenbrier,1
+Male,Elmore,11
+Male,Brooks,7
+Male,Effingham,7
+Male,Austin,2
+Female,Grundy,2
+Male,Yancey,1
+Male,Freeborn,1
+Male,Lorrain,1
+Female,Van Buren,1
+Transgender,Nueces,1
+Male,Tunica,2
+Male,Benton,35
+Female,Kings,19
+Male,Tuscola,5
+Female,Lee,11
+Female,Stanislaus,10
+Male,Bryan,3
+Male,Lampasas,1
+Female,Chesapeake City,2
+Male,Barnwell,2
+Female,Licking,4
+Male,Lamoille,1
+Male,Phillips,4
+Male,Mono,1
+Male,Montezuma,2
+Female,Okeechobee,2
+Female,Moore,1
+Female,Le Flore,1
+Female,San Diego,35
+Male,Valencia,8
+Female,St. Clair,8
+Male,Maury,11
+Male,Pender,2
+Female,Luzerne,2
+Male,Elbert,3
+Male,St. Croix,3
+Male,Tuolumne,3
+Female,Snohomish,1
+Male,Chelan,3
+Male,Braxton,1
+Female,Mason,1
+Male,Harris,464
+Male,Nassau,28
+Female,Adams,7
+Male,Imperial,25
+Male,Grady,10
+Male,Lynchburg City,2
+Male,Garrard,5
+Male,Boundary,1
+Male,Grainger,2
+Male,Marengo,1
+Male,Alleghany,2
+Male,De Kalb,1
+Male,Harlan,2
+Male,Parke,1
+Female,Athens-Clarke,1
+Male,Grundy,4
+Male,Montgomery,210
+Male,Mohave,29
+Male,Dare,2
+Male,Burleson,3
+Male,Eagle,3
+Male,Pushmataha,2
+Male,Tioga,2
+Male,Amite,1
+Transgender,Park Hill,1
+Male,Stanislaus,77
+Male,Harford,19
+Male,Kootenai,11
+Male,Gordon,3
+Male,Leavenworth,6
+Female,Cortland,1
+Male,Gibson,6
+Female,Taylor,1
+Male,Dickenson,1
+Male,Kleberg,2
+Female,Ontario,2
+Female,Natrona,1
+Male,Kosciusko,1
+Female,Baltimore City,10
+Male,Hamilton,131
+Male,Spartanburg,38
+Female,Rankin,4
+Female,Pasco,2
+Male,Morehouse,5
+Male,Colonial Heights City,2
+Female,Nicholas,1
+Male,Richardson,1
+Male,Nicollet,1
+Female,Grayson,1
+Male,Saint Louis City,1
+Male,San Juan,21
+Female,Palm Beach,8
+Male,Pierce,86
+Male,Sequoyah,6
+Male,Olmsted,4
+Male,Dubuque,4
+Male,Ozaukee,5
+Male,Bingham,2
+Female,Burlington,4
+Male,Le Sueur,1
+Male,Holt,1
+Female,New Castle,2
+Male,Panola,2
+Male,Wolfe,1
+Male,Kalamazoo,24
+Male,Anchorage,34
+Male,Hartford,33
+Female,Multnomah,6
+Female,Miami,1
+Male,McLennan,27
+Male,St. James,1
+Female,Comanche,1
+Female,Vanderburgh,1
+Female,Barnstable,1
+Female,Stark,6
+Female,Jefferson,51
+Male,Bell,31
+Female,Livingston,2
+Male,Caswell,2
+Female,Fairfax,1
+Male,Hill,3
+Male,Dickson,1
+Female,Covington,2
+Male,Richland,46
+Male,Roanoke,3
+Male,La Salle,2
+Male,Lamb,2
+Female,Lexington,3
+Male,Marinette,5
+Male,Edwards,1
+Female,Missoula,1
+Male,San Bernardino,297
+Male,District of Columbia,72
+Male,Pitkin,1
+Male,Nicholas,6
+Male,Faulkner,3
+Female,Madera,2
+Male,Callaway,4
+Female,Madison,11
+Male,Baxter,5
+Male,Owen,3
+Male,Webber,1
+Female,Howell,1
+Male,Prince George's,59
+Male,Adair,3
+Female,Arlington,1
+Male,Muskingum,7
+Male,Goochland,1
+Male,Coal,2
+Male,Spalding,6
+Male,Burnet,2
+Male,Dillon,4
+Male,Itasca,1
+Male,Yankton,3
+Male,Bernalillo,133
+Male,Chesapeake City,17
+Female,West Baton Rouge,2
+Male,Taney,4
+Female,Richardson,1
+Female,Pueblo,1
+Male,Live Oak,3
+Male,Gladwin,1
+Male,Tazewell,12
+Male,Centre,4
+Male,Coleman,1
+Female,Roanoke City,2
+Male,Suwannee,3
+Male,Uintah,1
+Male,Norman,1
+Female,Malheur,1
+Male,Watonwan,1
+Male,Ector,19
+Male,Hardeman,2
+Male,Racine,7
+Male,Lonoke,9
+Female,Portage,3
+Male,Starr,4
+Male,Wharton,2
+Female,Galveston,4
+Female,Navajo,1
+Male,Hunterdon,5
+Female,Milwaukee,16
+Male,Whitley,8
+Female,DeKalb,14
+Male,Iredell,12
+Female,Orangeburg,1
+Female,Hopkins,1
+Female,Darlington,3
+Female,Phillips,1
+Female,La Paz,2
+Male,Texas,2
+Male,Tattnall,1
+Female,Montgomery,23
+Male,St. Clair,40
+Male,Logan,12
+Female,Frederick,2
+Male,Rock Island,8
+Male,Piscataquis,1
+Female,Ionia,1
+Male,Gray,1
+Male,Robertson,1
+Male,Beaverhead,2
+Female,Canyon,3
+Male,Aurora,1
+Male,Kern,121
+Male,Barber,3
+Male,Cabell,10
+Female,Bucks,3
+Male,St. Landry,8
+Male,Monroe,66
+Male,Rutherford,10
+Male,Fredericksburg City,3
+Female,Brevard,4
+Male,Hopkins,6
+Male,Vigo,9
+Female,Bradley,2
+Male,Nacogdoches,5
+Female,Kosciusko,2
+Male,Independence,2
+Female,Rosebud,1
+Male,Poinsett,1
+Male,Kiowa,1
+Male,Fremont,14
+Female,Merrimack,1
+Male,Canyon,20
+Male,Storey,1
+Female,Johnson,6
+Female,El Paso,9
+Male,Yolo,19
+Female,Yuma,3
+Male,Luce,2
+Male,Bethel,2
+Male,Dewey,2
+Male,North Slope,1
+Male,Freestone,1
+Male,Saginaw,18
+Female,Boulder,1
+Female,Bartow,4
+Female,Wilkinson,1
+Female,St. Landry,1
+Female,Ulster,1
+Male,Rosebud,1
+Female,Honolulu,7
+Male,Harrison,34
+Male,Creek,11
+Female,Hardin,3
+Male,Wasco,2
+Female,Dutchess,1
+Male,Lewis And Clark,1
+Male,Broomfield,4
+Male,Westchester,15
+Male,Brooke,2
+Male,Whiteside,2
+Male,Powell,1
+Female,McKinley,3
+Male,Ketchikan Gateway,1
+Female,St. Joseph,3
+Female,Bell,2
+Male,Campbell,12
+Male,Schuylkill,10
+Female,Dona Ana,2
+Male,Morton,1
+Male,Coffee,8
+Male,St. Bernard,4
+Female,Duval,6
+Female,Iberia,2
+Male,Crawford,24
+Female,Murray,1
+Male,Andrews,1
+Male,Denali,1
+Male,Huntingdon,1
+Male,Sedgwick,56
+Male,Teller,4
+Female,St. Martin,3
+Female,Rowan,1
+Male,Tom Green,11
+Male,Lewis,12
+Female,Marquette,1
+Male,Dunn,2
+Female,Lubbock,2
+Male,Wapello,1
+Female,Sacramento,14
+Male,Wyoming,2
+Male,Arapahoe,52
+Female,Ward,1
+Male,Shiawassee,6
+Male,Menominee,1
+Male,Barry,10
+Male,Tama,6
+Female,Kalamazoo,5
+Transexual,Mecklenburg,1
+Male,Lenoir,5
+Male,Livingston,31
+Male,Brazoria,19
+Male,Waukesha,18
+Female,Lake,17
+Male,Burleigh,5
+Male,Atascosa,7
+Male,Chautauqua,2
+Male,Chippewa,4
+Female,Valencia,2
+Male,Custer,9
+Male,Isabella,2
+Male,Goodhue,3
+Female,San Juan,3
+Male,Craven,5
+Male,Colorado,1
+Female,Henry,3
+Female,Chilton,1
+Male,Luna,2
+Male,Granite,1
+Male,Henrico,20
+Male,Black Hawk,7
+Female,Chatham,4
+Male,Bladen,5
+Female,East Baton Rouge,6
+Female,Kern,13
+Male,Willacy,1
+Male,Alexander,1
+Male,Dent,1
+Male,Las Animas,3
+Male,Union,45
+Female,Macomb,1
+Male,Oneida,10
+Male,Ascension,8
+Female,Shasta,1
+Female,Shawnee,4
+Female,Caldwell,1
+Male,Tensas,2
+Male,Navarro,2
+Female,Bergen,1
+Male,Ritchie,2
+Female,Beltrami,2
+Female,Hopewell City,1
+Male,Camden,51
+Male,Fairfield,35
+Male,Fleming,3
+Male,Dale,8
+Male,Pottawatomie,12
+Female,Randolph,2
+Male,St. Lawrence,2
+Female,Northampton,2
+Male,Harper,1
+Male,Beford,1
+Male,Hoke,1
+Male,Lavaca,2
+Male,Langlade,1
+Female,Charlotte,1
+Female,Panola,1
+Male,Hudson,25
+Male,Beaver,7
+Female,Pima,10
+Male,Island,4
+Male,Newaygo,3
+Male,Isle of Wight,3
+White,Durham,1
+Female,Orange,41
+Male,St. Louis,134
+Male,Potter,31
+Male,Montrose,4
+Male,Muscogee,16
+Male,Mesa,17
+Male,Tippecanoe,6
+Male,Mahnomen,1
+Male,Nome,2
+Male,Anson,5
+Male,Long,2
+Male,Bexar,204
+Male,Lucas,38
+Female,Oceana,1
+Female,Sussex,3
+Male,Candler,2
+Male,Amherst,4
+Male,Rutland,5
+Female,Suffolk City,4
+Female,Canadian,3
+Male,Santa Cruz,19
+Male,Van Wert,2
+Male,Ravalli,3
+Female,Calcasieu,2
+Female,Autauga,1
+Female,Oktibbeha,1
+Male,Sevier,9
+Male,Oldham,2
+Female,Roosevelt,1
+Male,Mifflin,1
+Female,Forsyth,1
+Male,Kandiyohi,1
+Male,Indianapolis,1
+Male,Spencer,5
+Male,Laurens,9
+Male,Hendry,2
+Female,Clay,9
+Male,Colleton,7
+Male,Cecil,15
+Male,Bandera,3
+Female,Catawba,2
+Female,Dubuque,2
+Female,Elko,1
+Female,Ashland,1
+Male,Escambia,37
+Female,Seminole,4
+Male,Loudoun,6
+Male,Hopewell City,4
+Male,Aiken,14
+Female,Unicoi,1
+Female,Kingman,2
+Male,Bamberg,1
+Male,Juab,1
+Female,Clinton,2
+Male,Passaic,29
+Male,Muskegon,11
+Male,Norfolk City,32
+Female,Los Angeles,84
+Male,Merced,35
+Male,Pulaski,83
+Female,Collin,1
+Male,Placer,27
+Male,Iberville,5
+Male,Oswego,3
+Female,Placer,1
+Female,Aitkin,1
+Male,Mendocino,12
+Male,Lincoln,51
+Male,Liberty,15
+Male,Tallahatchie,1
+Male,Grimes,2
+Male,Lafourche,9
+Male,Yuba,11
+Female,Manatee,2
+Female,Etowah,1
+Male,Jo Daviess,1
+Male,Kingfisher,1
+Male,Quitman,1
+Male,Edgefield,2
+Female,Harris,36
+Male,Simpson,6
+Female,San Joaquin,14
+Female,Muskegon,2
+Male,Terrebonne,14
+Male,Cullman,5
+Male,Pontotoc,9
+Male,Rensselaer,5
+Female,Mahoning,2
+Female,Buchanan,1
+Male,Kings,125
+Male,Coconino,21
+Male,Bolivar,4
+Male,Brevard,43
+Female,Haywood,1
+Male,Riley,6
+Male,Cowley,3
+Male,Huerfano,1
+Female,Dewey,1
+Female,Contra Costa,17
+Male,Clinton,10
+Female,Denton,3
+Female,Rooks,1
+Female,Osceola,2
+Male,Montmorency,1
+Male,Neshoba,4
+Male,Searcy,3
+Male,Gaines,1
+Male,Baltimore City,101
+Male,Atlantic,19
+Male,El Dorado,14
+Male,Onondaga,21
+Female,Craig,1
+Female,Jefferson Davis,1
+Male,Cape May,6
+Male,Rockbridge,5
+Male,Barnstable,9
+Female,Butts,4
+Male,Red River,3
+Male,King,167
+Male,Clatsop,4
+Female,Escambia,1
+Female,Charleston,4
+Male,Pasquotank,1
+Male,Edgecombe,6
+Male,Winn,1
+Male,Elko,4
+Female,Bonner,1
+Female,Onondaga,1
+Male,De Witt,1
+Male,Charlevoix,1
+Male,Gaston,17
+Female,Cape May,2
+Male,Leake,2
+Male,Green,3
+Male,Jasper,29
+Female,Horry,3
+Female,Ellis,1
+Male,Van Buren,7
+Male,Trimble,2
+Male,Dickinson,7
+Male,St. Louis County,1
+Male,Tolland,3
+Male,Allegan,11
+Female,Butte,8
+Male,Preble,1
+Female,Sawyer,1
+Male,St. Francis,7
+Female,Limestone,1
+Male,Dallas,246
+Female,Mercer,3
+Male,Tuscarawas,3
+Male,Herkimer,3
+Female,Surry,1
+Male,Ware,4
+Female,Plymouth,3
+Transgender,El Paso,1
+Female,Victoria,1
+Male,Towns,1
+Male,Tulare,87
+Female,Nash,1
+Female,Rensselaer,1
+Male,Glascock,1
+Male,Otsego,3
+Female,Boone,4
+Male,Kauai,5
+Male,Emery,1
+Male,Hennepin,87
+Male,Vernon,5
+Male,Berks,25
+Male,Finney,4
+Male,La Paz,5
+Female,Weld,3
+Female,Wichita,4
+Male,Garvin,6
+Female,Suwannee,2
+Male,Rockcastle,2
+Female,Churchill,2
+Male,Yadkin,1
+Female,St. Mary's,1
+Male,Broward,141
+Male,Oxford,6
+Male,Botetourt,4
+Male,Howard,21
+Male,Dolton,1
+Female,Okaloosa,1
+Male,Juneau,2
+Female,Jones,1
+Male,Manitowoc,4
+Male,Fulton,135
+Male,Williamson,27
+Male,Lorain,11
+Male,Chatham,32
+Male,Augusta,3
+Male,Roosevelt,1
+Male,Tillamook,1
+Male,Iosco,1
+Female,Ingham,1
+Male,Fond du Lac,2
+Male,Gadsden,1
+Male,Frio,1
+Male,Adams,83
+Male,Shawano,2
+Male,Butler,51
+Male,Shawnee,29
+Male,Pope,12
+Male,Beltrami,5
+Male,Woodbury,9
+Female,Maui,1
+Female,Benton,3
+Male,Newton,12
+Male,Winneshiek,1
+Male,City of Newport News,1
+Female,Sandoval,3
+Male,Hughes,2
+Female,Lynchburg City,1
+Female,McIntosh,2
+Male,San Diego,277
+Male,St. Charles,24
+Male,Walworth,10
+Male,Somerset,19
+Female,Utah,6
+Male,Colfax,7
+Female,Columbia,4
+Male,East Feliciana,3
+Female,New Haven,2
+Male,McMinn,2
+Female,Gaston,3
+Male,Yalobusha,3
+Male,Hampshire,2
+Male,Uvalde,1
+Male,Kewaunee,1
+Male,Eddy,13
+Male,Calhoun,48
+Male,Comanche,18
+Female,Suffolk,11
+Male,LaPorte,7
+Male,Covington,6
+Male,Collier,10
+Male,Stevens,5
+Male,Banks,1
+Male,Siskiyou,6
+Male,Chambers,7
+Male,New London,11
+Female,Putnam,1
+Male,Sioux,1
+Male,York,77
+Male,Jessamine,3
+Male,DeSoto,18
+Male,Durham,22
+Female,Cumberland,8
+Female,Wyandotte,12
+Female,Schuylkill,1
+Male,Wexford,1
+Male,Vermillion,2
+Male,Kenton,8
+Male,Caldwell,10
+Male,Prentiss,1
+Male,Erath,2
+Female,Chippewa,1
+Male,Davie,1
+Female,Pulaski,6
+Male,Grant,23
+Male,Sumter,15
+Male,Jay,3
+Male,Talbot,2
+Female,Lehigh,2
+Male,Greenwood,8
+Male,Dixie,3
+Male,Valdez Cordova,1
+Male,Highland,1
+Male,St. Louis City,127
+Male,Hockley,3
+Male,Utah,20
+Female,Knox,5
+Female,Maricopa,26
+Male,Merrimack,3
+Male,Chaves,9
+Female,Whitfield,1
+Male,Churchill,3
+Male,Chattooga,1
+Female,Holmes,1
+Transgender,Anne Arundel,1
+Female,Cecil,4
+Female,Graham,1
+Female,Cuyahoga,16
+Male,Queen Anne's,3
+Male,Solano,59
+Female,Lucas,6
+Female,Lackawanna,2
+Female,Sunflower,1
+Female,Hidalgo,10
+Female,Monroe,4
+Female,Platte,2
+Female,Kootenai,1
+Male,Bosque,1
+Male,Davison,1
+Male,San Mateo,39
+Male,Wake,31
+Female,Spokane,1
+Female,District of Columbia,5
+Male,Glacier,2
+Male,Garfield,10
+Male,Josephine,10
+Female,Berrien,3
+Male,Stutsman,1
+Female,Charles,1
+Male,Pinellas,93
+Male,Bulloch,5
+Male,Indiana,8
+Female,Pottawatomie,2
+Male,Pike,20
+Male,Andrew,2
+Male,Hartley,2
+Male,Jim Wells,3
+Male,Bonner,4
+Male,Uinta,1
+Male,Roscommon,1
+Female,Walton,1
+Female,Real,1
+Male,Nash,3
+Female,Nye,1
+Male,Vanderburgh,20
+Male,Oregon,1
+Male,Schoharie,4
+Male,Hampden,17
+Female,Lenawee,1
+Male,Coos,5
+Male,Norfolk,20
+Male,McCook,2
+Male,Morrison,2
+Female,Sullivan,2
+Male,Wright,2
+Male,Sampson,2
+Female,Osage,1
+Female,Creek,1
+Female,Carter,2
+Male,Blaine,1
+Male,Ford,2
+Male,Wasatch,2
+Male,Culberson,1
+Male,Clear Creek,1
+Male,Madera,15
+Male,LaGrange,1
+Female,Loudoun,2
+Male,Geary,6
+Female,Chesterfield,5
+Male,Pitt,12
+Male,Decatur,6
+Male,Grafton,2
+Male,Fillmore,1
+Male,Weakley,1
+Transgender,Cibola,1
+Male,Southeast Fairbanks Census Area,2
+Male,Orleans,67
+Male,St. John the Baptist,7
+Male,Aransas,2
+Female,Anderson,6
+Male,Weld,37
+Male,Rockbrdge,1
+Male,Alachua,18
+Male,Berkeley,24
+Male,Chesterfield,29
+Male,Broome,5
+Female,Oakland,8
+Male,Conway,3
+Female,Hawkins,1
+Female,Beaufort,1
+Male,Ward,2
+Male,Crittenden,12
+Male,Habersham,3
+Male,Lunenburg,1
+Female,Coconino,2
+Male,Grays Harbor,5
+Male,Tallapoosa,3
+Female,Aiken,4
+Female,Norfolk,2
+Male,Jefferson,314
+Female,Lapeer,2
+Male,Monongalia,7
+Male,Luzerne,20
+Male,San Benito,5
+Male,Clermont,6
+Male,Charles,8
+Male,Burnett,2
+Male,Barren,3
+Male,Dawes,1
+Male,Tompkins,3
+Female,De Kalb,1
+Female,Huron,1
+Male,Malheur,2
+Transgender,Leon,1
+Male,Daviess,13
+Male,Limestone,9
+Female,Essex,10
+Male,Houston,29
+Male,Etowah,13
+Male,Troup,8
+Male,Parker,11
+Male,Oktibbeha,4
+Male,George,3
+Female,Lincoln,4
+Male,Gillespie,1
+Female,Saint Louis City,1
+Male,Cook,501
+Female,Miami-Dade,21
+Female,Dauphin,2
+Female,Calhoun,3
+Male,Reno,5
+Female,Monona,1
+Male,Owyhee,3
+Male,Swisher,1
+Female,Payne,1
+Male,Evans,1
+Male,Allegheny,94
+Male,Clay,50
+Male,Elkhart,19
+Female,Clayton,1
+Female,Mesa,1
+Male,Santa Rosa,8
+Male,San Miguel,5
+Male,Walton,13
+Female,Will,2
+Male,Stafford,10
+Male,Beadle,1
+Male,Waseca,2
+Male,Gulf,2
+Male,Guthrie,1
+Female,San Francisco,9
+Female,Porter,5
+Female,Baltimore,8
+Female,Queens,9
+Male,Hale,3
+Male,Williamsburg,2
+Female,Warren,2
+Male,Oglala Lakota,1
+Male,Deaf Smith,1
+Female,Cole,1
+Male,Anderson,46
+Male,Sumner,8
+Male,Whatcom,10
+Male,Moore,8
+Male,Haywood,2
+Male,Pemiscot,2
+Male,Big Horn,2
+Male,Mountrail,1
+Male,Harney,1
+Transgender,Maricopa,1
+Male,Levy,1
+Female,Hawaii,6
+Female,Ventura,4
+Female,Iredell,4
+Female,Henderson,3
+Male,Cochise,14
+Male,Otero,13
+Female,Barrow,3
+Female,Yavapai,2
+Female,Bastrop,1
+Male,Somervell,1
+Female,Kennebec,1
+Male,Bristol,20
+Male,Chenango,3
+Male,Fairbanks North Star,18
+Male,Genesee,41
+Male,Mahoning,12
+Male,Lackawanna,4
+Male,Iberia,8
+Male,Parmer,1
+Male,La Plata,2
+Male,Lowndes,13
+Male,Cotton,1
+Male,Comal,6
+Female,Yakima,2
+Male,Lander,1
+Male,Charles City,1
+Male,Dimmit,2
+Male,Barron,2
+Male,Rolette,1
+Male,Jewell,1
+Female,King,9
+Male,Plaquemines,1
+Female,Trinity,1
+Male,Honolulu,57
+Female,Dallas,16
+Male,Bradley,11
+Female,Cedar,2
+Male,Garland,9
+Male,Kanawha,25
+Male,Tooele,6
+Male,Ochiltree,1
+Male,New Madrid,4
+Male,Nevada,6
+Male,Surry,3
+Female,Kane,3
+Male,Sullivan,23
+Female,Rio Arriba,3
+Male,Mecosta,3
+Male,Pickens,13
+Male,Bee,4
+Male,Sagadahoc,4
+Female,Culpeper,1
+Female,Elkhart,1
+Male,Saguache,1
+Male,McPherson,3
+Male,Albany,14
+Male,Hendricks,4
+Male,Manatee,27
+Female,Caddo,5
+Female,HInds,1
+Female,Peoria,2
+Male,Larue,2
+Female,New Hanover,1
+Male,Okeechobee,2
+Male,Fresno,139
+Male,Washington,152
+Male,Henry,44
+Male,Stephenson,5
+Male,Blount,14
+Female,San Benito,1
+Female,Cherokee,8
+Male,Forrest,7
+Male,Rockdale,9
+Male,Calaveras,3
+Male,Reagan,1
+Male,Hickman,4
+Male,Chicago,1
+Male,Cerro Gordo,1
+Male,Gooding,1
+Male,Cowlitz,15
+Male,Beaufort,10
+Male,Brown,19
+Female,Nassau,5
+Male,Hubbard,2
+Male,Tuscaloosa,14
+Male,Dorchester,17
+Male,Scotts Bluff,2
+Male,Iron,3
+Male,McCurtain,3

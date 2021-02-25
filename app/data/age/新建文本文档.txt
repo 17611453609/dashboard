@@ -1,0 +1,2 @@
+x 轴  年龄age
+y轴  数量 count

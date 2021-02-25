@@ -1,0 +1,2 @@
+x轴 性别 Gender
+y轴 数量 count

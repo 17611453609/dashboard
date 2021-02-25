@@ -1,0 +1,7 @@
+{
+    "i18n-ally.localesPaths": [
+        "app/logic/language",
+        "app/translations/enUS/language",
+        "app/translations/zhCN/language"
+    ]
+}
